@@ -1,6 +1,6 @@
-# kitchen
+# The kitchen
 
-### exercises on 
+#### Exercises on 
 
 1. DOM Events
 2. Timeouts and Interval
